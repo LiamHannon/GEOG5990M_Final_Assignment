@@ -17,8 +17,10 @@ full datasets for each variable and shapefile afre found below
 
 Ageing:
 ONS. 2024. Lower layer Super Output Area population estimates (supporting information) - Office for National Statistics. [Online]. [Accessed 9 May 2024]. Available from: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/lowersuperoutputareamidyearpopulationestimates. 
+
 House Prices:
 ONS. 2024. House price data: annual tables - Office for National Statistics. [Online]. [Accessed 9 May 2024]. Available from: https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/housepriceindexannualtables2039. 
+
 LSOA Shapefile:
 UK Data Service 2022. 2011 census geography boundaries (Lower Layer Super Output Areas and data zones). UK Data Service. [Online]. [Accessed 9 May 2024]. Available from: https://statistics.ukdataservice.ac.uk/dataset/2011-census-geography-boundaries-lower-layer-super-output-areas-and-data-zones. 
 
